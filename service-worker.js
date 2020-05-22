@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/creabl_project/precache-manifest.fa86b0721ff3253d4db8f3e38b8d8395.js"
+  "/creabl_project/precache-manifest.bde948db45a91645242a90fc3b3fa05d.js"
 );
 
 self.addEventListener('message', (event) => {

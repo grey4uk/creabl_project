@@ -1,19 +1,37 @@
 {
   "files": {
-    "main.js": "/creabl_project/static/js/main.3528436d.chunk.js",
-    "main.js.map": "/creabl_project/static/js/main.3528436d.chunk.js.map",
-    "runtime-main.js": "/creabl_project/static/js/runtime-main.e676e5e2.js",
-    "runtime-main.js.map": "/creabl_project/static/js/runtime-main.e676e5e2.js.map",
-    "static/js/2.7e3647ae.chunk.js": "/creabl_project/static/js/2.7e3647ae.chunk.js",
-    "static/js/2.7e3647ae.chunk.js.map": "/creabl_project/static/js/2.7e3647ae.chunk.js.map",
+    "Analytics.js": "/creabl_project/static/js/Analytics.559dc99e.chunk.js",
+    "Analytics.js.map": "/creabl_project/static/js/Analytics.559dc99e.chunk.js.map",
+    "Chats.js": "/creabl_project/static/js/Chats.a4b33dbf.chunk.js",
+    "Chats.js.map": "/creabl_project/static/js/Chats.a4b33dbf.chunk.js.map",
+    "Help.js": "/creabl_project/static/js/Help.7611d483.chunk.js",
+    "Help.js.map": "/creabl_project/static/js/Help.7611d483.chunk.js.map",
+    "Messages.js": "/creabl_project/static/js/Messages.fa2b077d.chunk.js",
+    "Messages.js.map": "/creabl_project/static/js/Messages.fa2b077d.chunk.js.map",
+    "Setings.js": "/creabl_project/static/js/Setings.fffb444a.chunk.js",
+    "Setings.js.map": "/creabl_project/static/js/Setings.fffb444a.chunk.js.map",
+    "Users.js": "/creabl_project/static/js/Users.2ba657d3.chunk.js",
+    "Users.js.map": "/creabl_project/static/js/Users.2ba657d3.chunk.js.map",
+    "main.css": "/creabl_project/static/css/main.c85ae385.chunk.css",
+    "main.js": "/creabl_project/static/js/main.d9d099d5.chunk.js",
+    "main.js.map": "/creabl_project/static/js/main.d9d099d5.chunk.js.map",
+    "runtime-main.js": "/creabl_project/static/js/runtime-main.0ae97d83.js",
+    "runtime-main.js.map": "/creabl_project/static/js/runtime-main.0ae97d83.js.map",
+    "static/js/8.7097adbf.chunk.js": "/creabl_project/static/js/8.7097adbf.chunk.js",
+    "static/js/8.7097adbf.chunk.js.map": "/creabl_project/static/js/8.7097adbf.chunk.js.map",
     "index.html": "/creabl_project/index.html",
-    "precache-manifest.fa86b0721ff3253d4db8f3e38b8d8395.js": "/creabl_project/precache-manifest.fa86b0721ff3253d4db8f3e38b8d8395.js",
+    "precache-manifest.bde948db45a91645242a90fc3b3fa05d.js": "/creabl_project/precache-manifest.bde948db45a91645242a90fc3b3fa05d.js",
     "service-worker.js": "/creabl_project/service-worker.js",
-    "static/js/2.7e3647ae.chunk.js.LICENSE.txt": "/creabl_project/static/js/2.7e3647ae.chunk.js.LICENSE.txt"
+    "static/css/main.c85ae385.chunk.css.map": "/creabl_project/static/css/main.c85ae385.chunk.css.map",
+    "static/js/8.7097adbf.chunk.js.LICENSE.txt": "/creabl_project/static/js/8.7097adbf.chunk.js.LICENSE.txt",
+    "static/media/def_ico.svg": "/creabl_project/static/media/def_ico.e58993f9.svg",
+    "static/media/index.css": "/creabl_project/static/media/inter-v1-latin-regular.b4f048dd.woff",
+    "static/media/logo.svg": "/creabl_project/static/media/logo.6d495e45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e676e5e2.js",
-    "static/js/2.7e3647ae.chunk.js",
-    "static/js/main.3528436d.chunk.js"
+    "static/js/runtime-main.0ae97d83.js",
+    "static/js/8.7097adbf.chunk.js",
+    "static/css/main.c85ae385.chunk.css",
+    "static/js/main.d9d099d5.chunk.js"
   ]
 }

@@ -1,0 +1,2 @@
+(this.webpackJsonpcreabl_project=this.webpackJsonpcreabl_project||[]).push([[4],{61:function(e,t,n){"use strict";n.r(t);var c=n(7),a=n(0),r=n.n(a),u=n(16);t.default=function(){var e=Object(a.useState)(!1),t=Object(c.a)(e,2),n=t[0],s=t[1];return Object(a.useEffect)((function(){s(!1)}),[]),n?r.a.createElement("h3",null,"Component with Settings"):r.a.createElement(u.a,null)}}}]);
+//# sourceMappingURL=Setings.fffb444a.chunk.js.map
