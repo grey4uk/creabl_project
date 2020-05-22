@@ -1,0 +1,98 @@
+.sidebarContainer {
+    width: 190px;
+    height: 100vh;
+    padding: 34px 15px 0 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 74px;
+    height: 18.56px;
+    margin-bottom: 32.44px;
+}
+
+.categoryList {
+    list-style: none;
+}
+
+.categoryItem {
+    text-decoration: none;
+    color: #4D586D;
+}
+
+.categoryLi {
+    display: flex;
+    align-items: center;
+    color: #4D586D;
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 500;
+}
+
+.categoryLi:not(:last-child) {
+    padding-bottom: 30px;
+}
+
+.categoryItem:hover {
+    color: #2361FF;
+}
+
+.categoryIco {
+    width: 20px;
+    height: 20px;
+    margin-right: 18px;
+    stroke: #4D586D;
+}
+
+.categoryIcoActive {
+    stroke: #2361FF;
+}
+
+.categoryItemHover {
+    display: flex;
+    align-items: center;
+}
+
+.categoryItemHover:hover .categoryIco {
+    stroke: #2361FF;
+}
+
+.categoryName {
+    margin-right: 15px;
+}
+
+.userInfo {
+    display: flex;
+    padding-top: 40px;
+    margin-bottom: 25px;
+}
+
+.userAvatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+
+.userName {
+    width: 106px;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+
+@media (min-width: 768px) {
+    .sidebarContainer {
+        justify-content: space-between;
+        align-items: center;
+        margin: 0;
+        height: 768px;
+    }
+
+}
