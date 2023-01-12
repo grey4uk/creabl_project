@@ -6,7 +6,7 @@ import './assets/stylesheet/index.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/creabl_project'>
       <App />
     </BrowserRouter>
   </React.StrictMode>,
